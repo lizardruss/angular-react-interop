@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+@import '@pluralsight/ps-design-system-core/dist/index.css';
+@import '@pluralsight/ps-design-system-normalize/dist/index.css';
+@import '@pluralsight/ps-design-system-button/dist/css/index.css';
+@import '@pluralsight/ps-design-system-icon/dist/css/index.css';
